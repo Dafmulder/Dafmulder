@@ -1,22 +1,28 @@
 ### Hey, I'm Douwe
 
-Builder of developer tools, cloud infrastructure, and AI-powered products.
+Builder of developer tools, cloud infrastructure, and AI products. Based in the Netherlands.
 
-Founder of [**OmniRun**](https://omnirun.io) — cloud sandboxes for AI agents powered by Firecracker microVMs.
+#### Featured
 
-#### What I'm working on
-
-**[OmniRun](https://omnirun.io)** — Isolated code execution for AI agents. Each sandbox gets its own Linux kernel, boots in 250ms, and supports full desktop GUI control. [Docs](https://omnirun.io/docs) · [Examples](https://github.com/a14a-org/omnirun-examples) · [TypeScript SDK](https://github.com/a14a-org/omnirun-sdk) · [Python SDK](https://github.com/a14a-org/omnirun-sdk-python)
+**[OmniRun](https://omnirun.io)** — Cloud sandboxes for AI agents. Isolated Firecracker microVMs with 250ms boot, desktop GUI control, E2EE, and multi-language support.
+[Docs](https://omnirun.io/docs) · [Examples](https://github.com/a14a-org/omnirun-examples) · [TypeScript SDK](https://github.com/a14a-org/omnirun-sdk) · [Python SDK](https://github.com/a14a-org/omnirun-sdk-python) · [LangChain](https://github.com/a14a-org/langchain-omnirun)
 
 **[OmniClaw](https://omniclaw.run)** — Deploy AI agents to WhatsApp in 60 seconds. No coding, no shared servers.
 
-**[LangChain + OmniRun](https://github.com/a14a-org/langchain-omnirun)** — LangChain tools for executing code in Firecracker sandboxes.
+**[ClaudeSkill](https://claudeskill.io)** — Sync and manage Claude Code skills across devices with zero-knowledge encryption.
 
-#### Other projects
+#### Learning Platforms
 
-- **[Learning Platform](https://learningrust.org)** — Interactive programming courses for Rust, TypeScript, JavaScript, PHP, SQL, and Zig
+Six interactive programming courses, one codebase:
+
+[**Learning Rust**](https://learningrust.org) · [**Learning TypeScript**](https://learningtypescript.org) · [**Learning JavaScript**](https://learningjavascript.org) · [**Learning PHP**](https://learningphp.org) · [**Learning SQL**](https://learningsql.org) · [**Learning Zig**](https://learningzig.org)
+
+#### Other Projects
+
 - **[102 Projects](https://102projects.com)** — Developer portfolio builder
-- **[NepaliGo](https://nepaligo.com)** — Learn Nepali through interactive lessons
+- **[NepaliGo](https://nepaligo.com)** — Learn Nepali with interactive lessons
+- **[TenantShield](https://tenantshield.com)** — AI-powered tenant rights platform with jurisdiction-aware legal guidance
+- **[Cacao Juice](https://cacaojuice.com)** — Everything about cacao fruit juice
 
 #### Stack
 
