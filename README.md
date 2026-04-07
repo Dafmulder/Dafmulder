@@ -21,7 +21,7 @@ Six interactive programming courses, one codebase:
 
 - **[102 Projects](https://102projects.com)** — Developer portfolio builder
 - **[NepaliGo](https://nepaligo.com)** — Learn Nepali with interactive lessons
-- **[TenantShield](https://tenantshield.com)** — AI-powered tenant rights platform with jurisdiction-aware legal guidance
+- **[TenantShield](https://www.tenantshield.ai)** — AI-powered tenant rights platform with jurisdiction-aware legal guidance
 - **[Cacao Juice](https://cacaojuice.com)** — Everything about cacao fruit juice
 
 #### Stack
